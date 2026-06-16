@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Santosh Panda" class="profile-photo">
+  <h1>Santosh Panda</h1>
+  <p><strong>Professor</strong></p>
+  <p><em>[Empowering Geospatial Education | GIS | Remote Sensing | Python]</em></p>
 </div>
 
 ---
@@ -32,15 +32,8 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I received my undergraduate academic training in India, and graduate academic training in India and the U.S.A. My current research is focused on advancing scientific understanding of the climate induced landscape change and related geo-hazards in Alaska such as changes due to large forest fires, thawing permafrost, and eroding riverbanks with an ultimate goal to serve various stakeholders and influence policy decisions in support of sustainable solutions to emerging environmental problems. I use a variety of research techniques that range from detailed field observations to regional scale spatial modeling. My notable research contributions include first-ever high-resolution modeling of permafrost (i.e., perennially frozen ground) distributions in the seven national park units of Alaska, building community capacity to monitor permafrost in the native villages of Telida and Nikolai, mapping of Colville River bathymetry to aid safe subsistence travel, and production of an updated wildfire fuel map (at 10 m) of boreal Alaska. Currently, I am leading the research effort to map statewide forest health and disturbance as part of the USDA NIFA project. Sharing of academic knowledge and research findings with students, colleagues, and the public at large is a high priority for me. I regularly participate in STEAM outreach events and opportunities for public engagement. I have contributed to numerous science outreach efforts in Alaska ranging from speaking to K-12 students in classrooms and at the Permafrost Research Tunnel (located in Fox) to Alaskans across the state including outreach at 21 rural communities. 
+I teach GIS and remote sensing classes with a focus on natural resource applications at the Department of Natural Resources and Environment, University of Alaska Fairbanks (UAF).
 
 </div>
 
@@ -53,7 +46,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Santosh-CV.pdf){ .md-button }
 
 
 ---
@@ -66,9 +59,8 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
+    - ArcGIS Pro, Google Earth Engine
+    - Multispectral and Hyperspectral image analysis
     - Cloud Native Geospatial (COG, STAC, Zarr)
 
 -   :material-code-braces:{ .lg .middle } **Programming**
@@ -118,5 +110,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/skpanda1){ .md-button }
+[LinkedIn](https://linkedin.com/in/skpanda@alaska.edu){ .md-button }
