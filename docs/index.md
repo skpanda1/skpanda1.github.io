@@ -113,4 +113,4 @@ I teach GIS and remote sensing courses in the Department of Natural Resources an
 ## Connect
 
 [GitHub](https://github.com/skpanda1){ .md-button }
-[LinkedIn](https://linkedin.com/in/skpanda@alaska.edu){ .md-button }
+[LinkedIn](https://linkedin.com/in/santosh-panda-30259019/){ .md-button }

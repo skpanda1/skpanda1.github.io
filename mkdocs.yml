@@ -90,4 +90,5 @@ nav:
     # 4. Add a project card on docs/projects/index.md
   - Publications: publications.md
   - Experience: experience.md
+  - Resources: resources.md
   - Contact: contact.md
