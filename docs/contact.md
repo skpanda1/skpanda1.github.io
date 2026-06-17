@@ -15,18 +15,17 @@ CHECKLIST FOR THIS PAGE:
 
 # Contact
 
-I am open to work opportunities, collaborations, and project discussions.
+I am open to collaborations and project discussions.
 Feel free to reach out through any of the channels below.
 
 ---
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [skpanda@alaska.edu](mailto:[skpanda@alaska.edu]) |
+| :fontawesome-brands-github: **GitHub** | [github.com/skpanda1](https://github.com/[YOUR-GITHUB-USERNAME]) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/skpanda/](https://linkedin.com/in/santosh-panda-30259019/]) |
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Santosh-CV.pdf){ .md-button .md-button--primary }
