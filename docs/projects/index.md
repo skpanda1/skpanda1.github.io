@@ -19,16 +19,15 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/edx-project.jpg)
 
-**[Sample Project](sample-project.md)**
+**[GIS/ Remote Sensing MOOC](edx-giscourses.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Led the development and instruction of a series of massive open online courses (MOOCs) on GIS and remote sensing through AlaskaX, the University of Alaska Fairbanks' edX organization.
 
 `[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](edx-giscourses.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
