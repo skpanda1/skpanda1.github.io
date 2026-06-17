@@ -22,7 +22,8 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile.png" alt="Santosh Panda" class="profile-photo">
   <h1>Santosh Panda</h1>
   <p><strong>Professor</strong></p>
-  <p><em>[Empowering Geospatial Education | GIS | Remote Sensing | Python]</em></p>
+  <p><em>[Empowering Geospatial Education and Research]</em></p>
+  <p><em>[GIS | Remote Sensing | Data Science]</em></p>
 </div>
 
 ---
@@ -32,8 +33,9 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-I received my undergraduate academic training in India, and graduate academic training in India and the U.S.A. My current research is focused on advancing scientific understanding of the climate induced landscape change and related geo-hazards in Alaska such as changes due to large forest fires, thawing permafrost, and eroding riverbanks with an ultimate goal to serve various stakeholders and influence policy decisions in support of sustainable solutions to emerging environmental problems. I use a variety of research techniques that range from detailed field observations to regional scale spatial modeling. My notable research contributions include first-ever high-resolution modeling of permafrost (i.e., perennially frozen ground) distributions in the seven national park units of Alaska, building community capacity to monitor permafrost in the native villages of Telida and Nikolai, mapping of Colville River bathymetry to aid safe subsistence travel, and production of an updated wildfire fuel map (at 10 m) of boreal Alaska. Currently, I am leading the research effort to map statewide forest health and disturbance as part of the USDA NIFA project. Sharing of academic knowledge and research findings with students, colleagues, and the public at large is a high priority for me. I regularly participate in STEAM outreach events and opportunities for public engagement. I have contributed to numerous science outreach efforts in Alaska ranging from speaking to K-12 students in classrooms and at the Permafrost Research Tunnel (located in Fox) to Alaskans across the state including outreach at 21 rural communities. 
-I teach GIS and remote sensing classes with a focus on natural resource applications at the Department of Natural Resources and Environment, University of Alaska Fairbanks (UAF).
+I received my undergraduate training in India and graduate training in both India and the United States. My research advances scientific understanding of climate-induced landscape change and related geohazards in Alaska — including large forest fires, thawing permafrost, and eroding riverbanks — with the goal of serving stakeholders and informing policy decisions that support sustainable solutions to emerging environmental problems. I draw on research techniques ranging from detailed field observations to regional-scale spatial modeling.
+Notable contributions include the first high-resolution modeling of permafrost (perennially frozen ground) distribution across seven Alaska national park units, building community capacity to monitor permafrost in the Native villages of Telida and Nikolai, mapping Colville River bathymetry to support safe subsistence travel, and producing an updated 10 m wildfire fuel map of boreal Alaska. I currently lead research advancing remote sensing of forested ecosystems in Alaska to support forest health protection and management.
+I teach GIS and remote sensing courses in the Department of Natural Resources and Environment at the University of Alaska Fairbanks (UAF).
 
 </div>
 
